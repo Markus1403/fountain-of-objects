@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/markus/Documents/fountain-of-objects/FountainOfObjects/FountainOfObjects.csproj",
+      "projectUniqueName": "/home/markus/Documents/fountain-of-objects/FountainOfObjects.csproj",
       "projectName": "FountainOfObjects",
-      "projectPath": "/home/markus/Documents/fountain-of-objects/FountainOfObjects/FountainOfObjects.csproj",
+      "projectPath": "/home/markus/Documents/fountain-of-objects/FountainOfObjects.csproj",
       "packagesPath": "/home/markus/.nuget/packages/",
-      "outputPath": "/home/markus/Documents/fountain-of-objects/FountainOfObjects/obj/",
+      "outputPath": "/home/markus/Documents/fountain-of-objects/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/markus/.nuget/NuGet/NuGet.Config"
