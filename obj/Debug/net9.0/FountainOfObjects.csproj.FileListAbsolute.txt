@@ -1,0 +1,15 @@
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/bin/Debug/net9.0/FountainOfObjects
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/bin/Debug/net9.0/FountainOfObjects.deps.json
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/bin/Debug/net9.0/FountainOfObjects.runtimeconfig.json
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/bin/Debug/net9.0/FountainOfObjects.dll
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/bin/Debug/net9.0/FountainOfObjects.pdb
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/obj/Debug/net9.0/FountainOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/obj/Debug/net9.0/FountainOfObjects.AssemblyInfoInputs.cache
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/obj/Debug/net9.0/FountainOfObjects.AssemblyInfo.cs
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/obj/Debug/net9.0/FountainOfObjects.csproj.CoreCompileInputs.cache
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/obj/Debug/net9.0/FountainOfObjects.sourcelink.json
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/obj/Debug/net9.0/FountainOfObjects.dll
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/obj/Debug/net9.0/refint/FountainOfObjects.dll
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/obj/Debug/net9.0/FountainOfObjects.pdb
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/obj/Debug/net9.0/FountainOfObjects.genruntimeconfig.cache
+/home/markus/Documents/fountain-of-objects/FountainOfObjects/obj/Debug/net9.0/ref/FountainOfObjects.dll
