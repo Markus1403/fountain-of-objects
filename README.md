@@ -57,13 +57,7 @@ You lose immediately if you enter a room containing a pit or an Amarok.
 - **Maelstrom room**: does not kill directly, but relocates both you and the maelstrom.
 - **Empty room**: no direct effect.
 
-## Tech Stack
-
-- C#
-- .NET `10.0`
-- Console application (`Microsoft.NET.Sdk`)
-
-## Run Locally
+## How to run the game
 
 From the project root:
 
